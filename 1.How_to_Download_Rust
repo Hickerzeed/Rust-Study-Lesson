@@ -2,3 +2,17 @@ Download Rust
 1.Official website:https://www.rust-lang.org/
 Linux or mac: -curl https://sh.rustup.rs-sSf | sh
 Windows:Follow the official website
+
+Updata Rust:rustup update
+Uninstall Rust:rustup self uninstall
+
+Installation certification:rustc --version
+  Result format:rustc x.y.z(abcabcabc yyyy-mm-dd)
+  x.y.z represents the version number.
+  abcabcabc represents the commit hash.
+  yyyy-mm-dd represents the commit date.
+
+Local Doc:
+  When you install Rust, the documentation will be automatically installed locally for offline reading.
+  Run "rustup doc" to open local documentation in your browser.
+  
