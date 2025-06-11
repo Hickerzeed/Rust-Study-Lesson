@@ -1,0 +1,4 @@
+Download Rust
+1.Official website:https://www.rust-lang.org/
+Linux or mac: -curl https://sh.rustup.rs-sSf | sh
+Windows:Follow the official website
